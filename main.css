@@ -1,0 +1,37 @@
+h1, h2{
+    text-align: center;
+}
+
+.start h2, .end h2 {
+    margin: 80px;
+}
+
+.wrapper {
+    border: solid;
+    margin: 30px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+p {
+    font-size: 20px;
+}
+
+form label{
+    text-align: left;
+    display: block;
+    padding: 10px;
+}
+
+.button-holder {
+    text-align: center;
+}
+
+.button-right {
+    text-align: right;
+    padding: 20px;
+}
+
+.start, .end {
+    padding: 100px;
+}
